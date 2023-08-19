@@ -1,2 +1,2 @@
-# Origins-Issue-Tracker
+# Origins Issue Tracker
 Origins WoW Issue Tracker
